@@ -8,10 +8,6 @@
 
 <p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergrad in the year 2021.</p>
 
-<p align="center"><img src="https://github.com/itsandreu/itsandreu/blob/main/its.andreu_qr.png" width="150px"></p>
-
-
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -40,6 +36,7 @@
 <a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
 <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
+<p align="center"><img src="https://github.com/itsandreu/itsandreu/blob/main/its.andreu_qr.png" width="150px"></p>
 
 ---
 Credit: [ItsAndreu](https://github.com/itsandreu)
