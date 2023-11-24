@@ -8,7 +8,7 @@
 
 <p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergrad in the year 2021.</p>
 
-<p align="center" heigh="200px" width="200px"><img src="https://github.com/itsandreu/itsandreu/blob/main/its.andreu_qr.png"></p>
+<p align="center"><img src="https://github.com/itsandreu/itsandreu/blob/main/its.andreu_qr.png" witdh="50px"></p>
 
 
 
