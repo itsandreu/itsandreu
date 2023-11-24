@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://github.com/itsandreu/itsandreu/blob/main/Header.png"></p>
 <p align="center"><img src=""></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Ricardo Andreu </h1>
