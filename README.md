@@ -9,7 +9,7 @@
 <p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergrad in the year 2021.</p>
 
 ### 🛠 &nbsp;Tech Stack
-
+<img src="https://github.com/itsandreu/itsandreu/blob/main/filament-logo.jpg?raw=true" width="80px">&nbsp;
 ![FFMPEG](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=fff&style=flat)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
@@ -27,6 +27,8 @@
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+
+
 ### :link: &nbsp;Connect with me
 <p align="left">
   <img align="center" src="https://github.com/itsandreu/itsandreu/blob/main/its.andreu_qr.png" width="150px" alt="Unsimple Dev QR Code">
