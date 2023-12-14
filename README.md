@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Ricardo Andreu </h1>
 
-<p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergrad in the year 2021.</p>
+<p align="center" width="150px"> I have just kickstarted my career as a web developer intern after completing my undergrad in the year 2021.</p>
 
 ### 🛠 &nbsp;Tech Stack
 <img src="https://github.com/itsandreu/itsandreu/blob/main/filament-logo.jpg?raw=true" width="80px">&nbsp;
