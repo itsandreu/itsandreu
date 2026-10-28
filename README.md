@@ -1,104 +1,52 @@
-<p align="center">
-  <img src="https://github.com/itsandreu/itsandreu/blob/main/Header.png" width="500px" alt="Header">
-</p>
-<p align="center">
-  <img src="https://github.com/itsandreu/itsandreu/blob/main/banner.png" width="800px" alt="Banner">
-</p>
+<a href="https://ricardoandreu.com">
+  <img src="assets/cabecera.svg" width="100%" alt="Ricardo Andreu. Doy la cara por tu web. Desarrollo web y software en Valencia.">
+</a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Ricardo Andreu</h1>
+<br>
 
-<p align="center">
-  <b>Web Developer & Designer | AI Enthusiast</b><br>
-  Building modern web experiences and exploring the power of Artificial Intelligence.
-</p>
+Soy **Ricardo Andreu**. Diseño y programo webs y software para negocios, del diseño al servidor, y durante el proyecto **hablas siempre conmigo**: no con un comercial ni con un sistema de tickets.
 
----
+Empecé en sistemas y llegué a la programación de la mano de un amigo que acabó siendo mi mentor. Esa mezcla de sistemas, código y diseño es la que me permite encargarme de un proyecto entero.
 
-### 👨‍💻 About Me
+### Ahora mismo
 
-- 🚀 I've been building and designing web applications since 2021.
-- 🎨 I specialize in **Web Design**, creating intuitive and visually appealing user interfaces.
-- 🤖 Currently integrating **Artificial Intelligence** models (LLMs, Prompt Engineering) into modern workflows and development.
-- 💡 Always eager to learn new technologies and improve my tech stack.
+- Doy soporte a los sistemas de emisión de una televisión, donde un fallo se ve en directo.
+- Mantengo **[Odonext](https://odonext.com)**, el software de gestión con el que trabaja cada día un laboratorio dental.
+- Automatizo la captación de clientes de mi propio negocio con n8n.
+- Estudio Desarrollo de Aplicaciones Multiplataforma.
 
----
+### Con qué trabajo
 
-### 🛠️ Tech Stack & Skills
+<img src="assets/plato.svg" width="100%" alt="Con qué trabajo. Diseño: Figma, Tailwind y Astro. Código: PHP, Laravel y Filament. Servidor: Linux, Docker y Caddy. Automatización: n8n, PostgreSQL e IA.">
 
-#### 🌐 Frontend & Web Design
-<img src="https://github.com/itsandreu/itsandreu/blob/main/filament-logo.jpg?raw=true" width="80px" alt="Filament" style="vertical-align: middle;">&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=38B2AC)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)&nbsp;
+### Proyectos
 
-#### ⚙️ Backend & Databases
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+<a href="https://odonext.com"><img src="assets/odonext.jpg" width="100%" alt="Portada de Odonext"></a>
 
-#### 🧠 Artificial Intelligence
-![ChatGPT](https://img.shields.io/badge/OpenAI-05122A?style=flat&logo=openai&logoColor=white)&nbsp;
-![Claude](https://img.shields.io/badge/Claude_AI-05122A?style=flat&logo=anthropic&logoColor=white)&nbsp;
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-05122A?style=flat&logo=github&logoColor=white)&nbsp;
-
-#### 🔧 Tools & Environment
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![FFMPEG](https://img.shields.io/badge/FFmpeg-05122A?logo=ffmpeg&logoColor=fff&style=flat)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itsandreu&theme=radical&hide_border=true" alt="itsandreu's Streak Stats" />
-</p>
-
----
-
-### :link: Connect with me
+**[Odonext](https://odonext.com)**: mi propio producto. Software de gestión para laboratorios dentales, que reúne producción, planificación, almacén, trazabilidad y facturación en un solo sitio. Lo he diseñado, lo he programado y lo mantengo yo.
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/itsandreu/itsandreu/blob/main/its.andreu_qr.png" width="130px" alt="Unsimple Dev QR Code"><br>
-      <b>Scan to Connect!</b>
+    <td width="50%" valign="top">
+      <a href="https://didalcomposturas.com"><img src="assets/didal.jpg" width="100%" alt="Portada de Didal Composturas"></a>
+      <p><b><a href="https://didalcomposturas.com">Didal Composturas</a></b><br>Web para un taller de arreglos de ropa en Torrent. Muestra si la tienda está abierta en ese momento, y sus animaciones salen del propio oficio: botones que se cosen, una cinta métrica y un perchero.</p>
     </td>
-    <td>
-      &nbsp;&nbsp;&nbsp;
-    </td>
-    <td valign="middle">
-      <a href="https://www.linkedin.com/in/ricardo-andreu-623219269/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a><br><br>
-      <a href="mailto:ricardoandreugimeno@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a><br><br>
-      <a href="https://www.facebook.com/ricardo.andreugimeno" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-      </a><br><br>
-      <!-- You can add your YouTube and TikTok URLs in the href attribute below when ready -->
-      <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-      </a>
-      <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-      </a>
+    <td width="50%" valign="top">
+      <a href="https://espectaculosgilton.com"><img src="assets/gilton.jpg" width="100%" alt="Portada de Gilton Producciones"></a>
+      <p><b><a href="https://espectaculosgilton.com">Gilton Producciones</a></b><br>Web y panel de gestión para una agencia de espectáculos de Valencia, con agenda de eventos y catálogo de artistas, orquestas y musicales.</p>
     </td>
   </tr>
 </table>
 
-<br>
-<p align="center">
-  Credit: <a href="https://github.com/itsandreu">ItsAndreu</a>
-</p>
+### Cómo trabajo
+
+1. **Hablamos.** Una llamada o un café para entender qué necesitas, sin tecnicismos.
+2. **Propuesta cerrada.** Qué voy a hacer, cuánto cuesta y cuándo estará. Sin sorpresas.
+3. **Diseño y desarrollo.** Ves avances cada semana y opinas antes de que nada quede cerrado.
+4. **Entrega y después.** Publicamos, te enseño a usarlo y sigo ahí si necesitas algo.
+
+### Hablemos
+
+**[ricardoandreu.com](https://ricardoandreu.com)** · [hola@ricardoandreu.com](mailto:hola@ricardoandreu.com) · [Instagram](https://www.instagram.com/ricardoandreu.dev/) · [LinkedIn](https://www.linkedin.com/in/ricardo-andreu-623219269/)
+
+<sub>Las ilustraciones de este perfil son SVG animados generados con <a href="herramientas/generar.py">herramientas/generar.py</a>: la fuente va incrustada y recortada a las letras que se usan.</sub>
